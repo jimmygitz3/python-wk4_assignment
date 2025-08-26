@@ -1,4 +1,4 @@
-# 📝 File Handling & Error Management Project 
+# 📝 File Handling & Error Management Project
 
 ## 👋 Introduction
 
@@ -7,6 +7,7 @@ This project was completed as part of my coursework on Python programming. The g
 ## 🖋️ Task 1: File Read & Write Challenge
 
 For this part of the assignment, I created a Python script that:
+
 - Prompts the user for the name of an input file.
 - Reads the contents of the file.
 - Applies a transformation to the text (in my case, I converted all text to uppercase).
@@ -17,6 +18,7 @@ This helped me understand how to use Python’s `open()` function and how to wor
 ## 🧪 Task 2: Error Handling Lab
 
 In the second part, I added error handling to make the program more robust. Specifically, I:
+
 - Used `try` and `except` blocks to catch `FileNotFoundError`.
 
 This part taught me how important it is to anticipate and handle exceptions, especially when dealing with user input and external files.
@@ -35,7 +37,6 @@ This part taught me how important it is to anticipate and handle exceptions, esp
 ## 🚀 How to Run the Program
 
 1. Make sure you have Python installed.
-2. Save the script as `code_1.py` and 'code_2.py'.
-3. Prepare a sample text file (`input.txt`) and ('output.txt') in the same directory.
+2. Save the script as `code_1.py` and `code_2.py`.
+3. Prepare a sample text file (`input.txt`) and (`output.txt`) in the same directory.
 4. Run the scripts:
-   
